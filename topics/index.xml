@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topics on zzj&#39;s Blog</title>
+    <link>https://hizzj.github.io/topics/</link>
+    <description>Recent content in Topics on zzj&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016. All rights reserved.</copyright>
+    <lastBuildDate>Tue, 11 Dec 2018 20:26:12 +0800</lastBuildDate>
+    
+	<atom:link href="https://hizzj.github.io/topics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Es6</title>
+      <link>https://hizzj.github.io/topics/es6/</link>
+      <pubDate>Tue, 11 Dec 2018 20:26:12 +0800</pubDate>
+      
+      <guid>https://hizzj.github.io/topics/es6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leetcode</title>
+      <link>https://hizzj.github.io/topics/leetcode/</link>
+      <pubDate>Thu, 11 Apr 2019 20:26:12 +0800</pubDate>
+      
+      <guid>https://hizzj.github.io/topics/leetcode/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
